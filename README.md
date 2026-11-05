@@ -1,4 +1,6 @@
-# Software factory
+# Spec Assembly
+
+A Codex software factory where coordinated agents turn specs into tested applications, with your approval of the design and implementation plan before building.
 
 This repository versions the Codex workflow. Open a separate application repository as your working directory for each factory run. Application code, dependencies, and tests belong to that project.
 
